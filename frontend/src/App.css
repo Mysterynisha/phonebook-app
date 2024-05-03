@@ -1,0 +1,28 @@
+*{
+ margin-top: 10px;
+}
+
+.btn{
+  border: 2px solid blue;
+  border-radius: 15px;
+  padding: 5px;
+  float: right;
+  margin-top: 5px;
+  background-color: rgb(101, 101, 211);
+}
+
+input{
+  border-bottom: 2px solid rgb(12, 12, 19);
+  border-radius: 15px;
+  
+}
+
+.card{
+  display: flex;
+  justify-content: center;
+  border: 2px solid rgb(61, 56, 56);
+  width: 400px;
+  justify-content: space-between;
+  padding: 20px;
+  background-color: grey;
+}
